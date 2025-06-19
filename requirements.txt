@@ -1,0 +1,5 @@
+keyboard
+pillow
+requests
+psutil
+pywin32
